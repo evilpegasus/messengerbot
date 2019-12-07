@@ -63,15 +63,4 @@ send_stock("TSLA")
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 client.logout()
